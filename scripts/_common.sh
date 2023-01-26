@@ -6,7 +6,7 @@
 # PHP APP SPECIFIC
 #=================================================
 
-YNH_PHP_VERSION=8.1
+YNH_PHP_VERSION=7.4
 
 php_dependencies="php$YNH_PHP_VERSION-curl php$YNH_PHP_VERSION-dom php$YNH_PHP_VERSION-exif php$YNH_PHP_VERSION-gd php$YNH_PHP_VERSION-mbstring php$YNH_PHP_VERSION-mysql"
 
