@@ -109,7 +109,7 @@ ynh_add_nginx_config
 #=================================================
 # INSTALL LYCHEE WITH COMPOSER
 #=================================================
-ynh_script_progression --message="Installing BookStack with Composer..." --weight=5
+ynh_script_progression --message="Installing with Composer..." --weight=5
 
 # Install composer
 ynh_install_composer
